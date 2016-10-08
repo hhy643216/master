@@ -1,0 +1,1 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@color/TabChecked" android:state_checked="true" /><item android:drawable="@color/TabUnChecked" android:state_checked="false" /></selector>

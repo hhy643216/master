@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="Droid/AndroidLearningDemo.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.JF7DPJLZJZPZTKVG" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AndroidLearningDemo.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

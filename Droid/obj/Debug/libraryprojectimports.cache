@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.CrossCore.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Binding.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Droid.Fragging/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.CrossCore.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Binding.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Droid.Fragging/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.CrossCore.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Droid.Fragging.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/shuyamei/Projects/AndroidLearningDemo/Droid/obj/Debug/__library_projects__/Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

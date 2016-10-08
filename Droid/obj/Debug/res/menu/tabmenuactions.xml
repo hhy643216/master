@@ -1,0 +1,1 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:local="http://schemas.android.com/apk/res-auto"><item android:id="@+id/ActionSetting" android:icon="@mipmap/btn_setting_xxhdpi" local:showAsAction="always" android:title="設定" /></menu>

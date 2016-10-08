@@ -1,0 +1,9 @@
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/bin/Debug/AndroidLearningDemo.dll.mdb
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/bin/Debug/AndroidLearningDemo.dll
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/obj/Debug/AndroidLearningDemo.dll
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/obj/Debug/AndroidLearningDemo.dll.mdb
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/bin/Debug/Cirrious.CrossCore.dll
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/bin/Debug/Cirrious.MvvmCross.Localization.dll
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/bin/Debug/Cirrious.MvvmCross.dll
+/Users/shuyamei/Projects/AndroidLearningDemo/AndroidLearningDemo/bin/Debug/Cirrious.MvvmCross.Community.Plugins.Sqlite.dll

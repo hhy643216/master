@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="10dp">
+        <EditText
+            android:id="@+id/recordWrite"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:background="@android:color/holo_blue_bright" />
+        <Button
+            android:id="@+id/writeBtn"
+            android:text="入力"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="15dp" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/recordListNull"
+        android:text="レコードはありません。"
+        android:layout_height="200dp"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/background_dark"
+        android:gravity="center"
+        android:visibility="gone" />
+    <DraggableListView
+        android:id="@+id/recordListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        local:MvxBind="ItemClick ItemSelectedCommand" />
+</LinearLayout>
